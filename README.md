@@ -1,4 +1,8 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/genius)
+![GitHub language count](https://img.shields.io/github/languages/count/itajacy/genius)
+![GitHub top language](https://img.shields.io/github/languages/top/itajacy/genius)
+
+
 
 # Arduino - Projeto GENIUS (jogo de memória)
 GENIUS (Simon game) é um jogo de memória que se tornou popular na década de 80. O objetivo do jogo é acompanhar uma sequência de luzes e sons sem errar. Além de ser muito divertido este projeto é ideal para o desenvolvimento do raciocínio lógico e também recomendado para quem deseja entender melhor o conceito e uso de vetores (array).
